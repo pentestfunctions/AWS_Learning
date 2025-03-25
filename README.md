@@ -433,7 +433,7 @@
 
 **Use Case Example:** An e-commerce platform uses Aurora to handle their product catalog and transaction database. During high-traffic events like Black Friday sales, Aurora automatically scales to handle the 10x increase in database queries while maintaining millisecond response times, and the company pays only for the resources they actually consume.
 
-**Often Confused With:** Amazon RDS, which is a broader service that includes Aurora but also supports other database engines. Aurora is specifically designed for higher performance and availability compared to standard MySQL and PostgreSQL on RDS.
+**Often Confused With:** Amazon RDS (Relational Database Service), which is a broader service that includes Aurora but also supports other database engines. Aurora is specifically designed for higher performance and availability compared to standard MySQL and PostgreSQL on RDS.
 
 <img src="https://github.com/HotCakeX/Harden-Windows-Security/raw/main/images/Gifs/1pxRainbowLine.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 
